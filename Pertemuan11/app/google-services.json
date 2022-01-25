@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245343866415",
+    "project_id": "fir-ppb2021-ace74",
+    "storage_bucket": "fir-ppb2021-ace74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245343866415:android:aacf3acebae5b0012640da",
+        "android_client_info": {
+          "package_name": "id.yolanda_19104057.pertemuan11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245343866415-6bcasc66ik86q2nd86jr6n8akk8hbmdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6U4fBrcIjBwxqxW95RfyBYKfMJLU8uX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245343866415-6bcasc66ik86q2nd86jr6n8akk8hbmdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
